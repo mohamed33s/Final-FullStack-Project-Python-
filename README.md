@@ -75,7 +75,8 @@
 
 ### ER Diagram:
 
-
+![](https://github.com/mohamed33s/Final-FullStack-Project-Python-/blob/main/ER_Diagram.png?raw=true
+)
 
 ------------
 
